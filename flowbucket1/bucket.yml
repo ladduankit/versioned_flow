@@ -1,0 +1,6 @@
+flows:
+  6a822ce4-1bd0-45b4-8e9b-a484d0b0be9a: {ver: 1, file: flowtest1.snapshot, comments: '',
+    author: anonymous, created: 1600240867644, flowName: flowtest1, flowDesc: flow
+      commit to git.}
+layoutVer: 1
+bucketId: 83aa8fe4-c7f8-4234-b781-b49cb0912730
