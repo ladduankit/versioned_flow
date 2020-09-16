@@ -1,0 +1,6 @@
+flows:
+  e516026d-1ef2-46ab-9254-e1eb1f8f7a02: {ver: 1, file: securebucket.snapshot, comments: '',
+    author: 'CN=sys_admin, OU=NIFI', created: 1600252637351, flowName: securebucket,
+    flowDesc: test with secure nifi-registry.}
+layoutVer: 1
+bucketId: 19fd9636-36de-4106-862e-c496fb3e3d5a
